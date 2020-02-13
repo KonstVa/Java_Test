@@ -1,2 +1,3 @@
-/target/test-classes/test1.class
+/target/
+/.idea/
 /java_test.iml
